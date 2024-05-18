@@ -1,0 +1,1 @@
+{'Nombre del trabajador': 'Bastian', 'Sueldo base': 7500000, 'Pago por horas extras': 468750.0, 'Ingresos totales': 7968750.0, 'Descuento por seguridad social': 1354687.5, 'Sueldo neto a pagar': 6614062.5}
